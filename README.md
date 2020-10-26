@@ -52,7 +52,7 @@ We are looking for friendly and talented developers who are able to adapt to dif
 
 - You are free to choose which framework (React, Vue, Angular, etc) and additional packages to use or even write everything from scratch
 
-- A friendly UI (transitions, fonts, effects, could be nice)
+- A friendly UI (transitions, fonts, effects)
 
 - Good Readme doc including a live demo URL
 
