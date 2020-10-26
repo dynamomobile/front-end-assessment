@@ -58,7 +58,7 @@ We are looking for friendly and talented developers who are able to adapt to dif
 
 ### Task description:
 
-Create a SPA application which:
+Create a responsive SPA application which:
 
 - The user has access to a protected page which will show:
 
