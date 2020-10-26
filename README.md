@@ -52,9 +52,9 @@ We are looking for friendly and talented developers who are able to adapt to dif
 
 - You are free to choose which framework (React, Vue, Angular, etc) to use or even write everything from scratch
 
-- ⚠️ If you have any question regarding this assessment, feel free to ask us before you start it.
-
 - A friendly UI (transitions, fonts, effects, could be nice)
+
+**⚠ If you have any question regarding this assessment, feel free to ask us before you start it.**
 
 ### Task description:
 
