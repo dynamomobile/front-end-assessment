@@ -80,7 +80,7 @@ Create a responsive SPA application which:
 #### Bonus points:
 
 - use Typescript
-- use some post processors (SASS/SCSS, LESS, Stylus, etc)
+- use some post processor (SASS/SCSS, LESS, Stylus, etc)
 
 ### Deadline
 
