@@ -41,6 +41,7 @@ We are looking for friendly and talented developers who are able to adapt to dif
 - Handle different stacks according to the customer's demand
 - Participate in potential scrum rituals
 - Discuss with customer's team potential solutions
+- Integrate with 3rd party REST APIs or even GraphQL
 
 ---
 
