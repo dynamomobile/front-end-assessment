@@ -20,7 +20,7 @@ We are looking for friendly and talented developers who are able to adapt to dif
 - Familiar with Vue
 - Familiar with Redux
 - Familiar with Clean Code principles
-- Strong CSS knowledge (and post compilers aka Sass/Scss, LESS)
+- Strong CSS knowledge (and post processors aka Sass/Scss, LESS)
 - Good communication skills: As a Dynamate you will be in touch directly with our customers, so you must be sure to understand the customer's requirements and communicate potential issues and/or suggestions.
 - Write tests (unit/integration/E2E)
 - Very security-oriented approach
@@ -80,7 +80,7 @@ Create a responsive SPA application which:
 #### Bonus points:
 
 - use Typescript
-- use some pre-compilers (SASS/SCSS, etc)
+- use some post processors (SASS/SCSS, etc)
 
 ### Deadline
 
