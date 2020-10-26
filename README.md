@@ -2,7 +2,7 @@
 
 Hello dev! 🙌
 
-Are you ready to be the next [Dynamate](# "this is how we kindly call our fantastic team members")?
+Are you ready to be the next Dynamate (this is how we kindly call our fantastic team members)?
 
 This is our Front End assessment test. Please read carefully the instructions below:
 
