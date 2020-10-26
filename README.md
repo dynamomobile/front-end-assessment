@@ -60,7 +60,7 @@ We are looking for friendly and talented developers who are able to adapt to dif
 
 ### Task description:
 
-Create a responsive SPA application which:
+Create a responsive [SPA](https://en.wikipedia.org/wiki/Single-page_application) which consumes data frmo [SpaceX Rest API](https://docs.spacexdata.com/):
 
 - The user has access to a protected page which will show:
 
