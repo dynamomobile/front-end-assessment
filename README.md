@@ -54,6 +54,8 @@ We are looking for friendly and talented developers who are able to adapt to dif
 
 - A friendly UI (transitions, fonts, effects, could be nice)
 
+- Good Readme doc including a live demo URL
+
 **⚠ If you have any question regarding this assessment, feel free to ask us before you start it.**
 
 ### Task description:
@@ -74,6 +76,11 @@ Create a responsive SPA application which:
     - if it has video link or an YouTube ID available, show a video player for that
 
 - The authentication screen should be able to generate a password for a given email (tip: you can store in session or even local storage)
+
+#### Bonus points:
+
+- use Typescript
+- use some pre-compilers (SASS/SCSS, etc)
 
 ### Deadline
 
