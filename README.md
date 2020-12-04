@@ -76,7 +76,7 @@ Create a responsive [SPA](https://en.wikipedia.org/wiki/Single-page_application)
     - payload details
     - if it has video link or an YouTube ID available, show a video player for that
 
-- The authentication screen should be able to generate a password for a given email (tip: you can store in session or even local storage)
+- Sign up and Sign in buttons for authentication
 
 #### Bonus points:
 
